@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "abc",
+    "c d",
+    "e e"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:hopper"
+    },
+    "b": {
+      "item": "minecraft:redstone"
+    },
+    "c": {
+      "item": "minecraft:iron_ingot"
+    },
+    "d": {
+      "item": "minecraft:glass"
+    },
+    "e": {
+      "item": "minecraft:cobblestone_slab"
+    }
+  },
+  "result": {
+    "item": "sparky_mod:elixir_collector",
+    "count": 1
+  }
+}

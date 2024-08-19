@@ -1,0 +1,22 @@
+{
+  "_fv": 66,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": {
+      "value": "Blocks.AIR"
+    },
+    "showParticles": true,
+    "actionSound": {
+      "value": "CUSTOM:sparky_shot"
+    },
+    "igniteFire": false,
+    "power": 2.0,
+    "damage": 20.0,
+    "knockback": 0,
+    "entityModel": "Modelsparky_shot",
+    "customModelTexture": "sparky_shot.png",
+    "onFlyingTick": {
+      "name": "SparkyshotWhileProjectileFlyingTick"
+    }
+  }
+}

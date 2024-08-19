@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "elixir_collector"
+      },
+      "name": "default"
+    }
+  }
+}

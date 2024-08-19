@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "sparky_mod:item/sparkycard"
+  }
+}

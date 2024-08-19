@@ -1,0 +1,42 @@
+{
+  "sparky_step": {
+    "sounds": [
+      {
+        "name": "sparky_mod:cards_sparky_zap_machine_run_loop_04",
+        "stream": false
+      }
+    ]
+  },
+  "sparky_charge": {
+    "sounds": [
+      {
+        "name": "sparky_mod:cards_sparky_zap_machine_charge_06",
+        "stream": false
+      }
+    ]
+  },
+  "sparky_shot": {
+    "sounds": [
+      {
+        "name": "sparky_mod:cards_sparky_zappyshot_01",
+        "stream": false
+      }
+    ]
+  },
+  "sparky_summon": {
+    "sounds": [
+      {
+        "name": "sparky_mod:cards_sparky_zappy_drop_01",
+        "stream": false
+      }
+    ]
+  },
+  "sparky_discharge": {
+    "sounds": [
+      {
+        "name": "sparky_mod:cards_sparky_zap_discarge_03_1",
+        "stream": false
+      }
+    ]
+  }
+}

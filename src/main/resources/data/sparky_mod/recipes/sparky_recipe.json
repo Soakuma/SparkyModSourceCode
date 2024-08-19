@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "abc",
+    "ded",
+    "fff"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone_block"
+    },
+    "b": {
+      "item": "minecraft:gold_ingot"
+    },
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "d": {
+      "item": "minecraft:iron_ingot"
+    },
+    "e": {
+      "item": "sparky_mod:bottle_of_elixir"
+    },
+    "f": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "sparky_mod:sparky_spawn_item",
+    "count": 1
+  }
+}

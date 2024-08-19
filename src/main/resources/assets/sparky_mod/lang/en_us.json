@@ -1,0 +1,17 @@
+{
+  "subtitles.sparky_summon": "",
+  "subtitles.sparky_charge": "",
+  "subtitles.sparky_discharge": "",
+  "subtitles.sparky_discarge": "",
+  "death.attack.sparky_damage": "%1$s cooked by electricity",
+  "item.sparky_mod.bottle_of_elixir": "Bottle of Elixir",
+  "subtitles.sparky_step": "",
+  "entity.sparky_mod.sparky": "Sparky",
+  "biome.sparky_mod.elixir_water_vein": "Elixir Vein",
+  "block.sparky_mod.elixir_collector": "Elixir Collector",
+  "death.attack.sparky_damage.item": "%1$s fried by %2$s using %3$s",
+  "death.attack.sparky_damage.player": "%1$s fried whilst trying to escape %2$s",
+  "subtitles.sparky_shot": "",
+  "gui.sparky_mod.elixir_collector_gui.label_elixir_collector": "Elixir Collector",
+  "item.sparky_mod.sparky_spawn_item": "Sparky Card"
+}

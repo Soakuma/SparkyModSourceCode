@@ -1,0 +1,48 @@
+{
+  "_fv": 66,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "EQUIPMENT",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.HOPPER"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": "Items.IRON_INGOT"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.GLASS"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#3"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STONE_SLAB#3"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ElixirCollector"
+    },
+    "name": "elixir_collector_recipe",
+    "namespace": "mod"
+  }
+}

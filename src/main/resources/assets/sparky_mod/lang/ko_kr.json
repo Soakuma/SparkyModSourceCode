@@ -1,0 +1,17 @@
+{
+  "subtitles.sparky_summon": "",
+  "subtitles.sparky_charge": "",
+  "subtitles.sparky_discharge": "",
+  "subtitles.sparky_discarge": "",
+  "death.attack.sparky_damage": "%1$s이(가) 전기구이가 됐습니다",
+  "item.sparky_mod.bottle_of_elixir": "엘릭서가 담긴 병",
+  "subtitles.sparky_step": "",
+  "entity.sparky_mod.sparky": "스파키",
+  "biome.sparky_mod.elixir_water_vein": "엘릭서 수맥",
+  "block.sparky_mod.elixir_collector": "간이 엘릭서 정제소",
+  "death.attack.sparky_damage.item": "%1$s이(가) %3$s를 사용한 %2$s에게 튀겨졌습니다.",
+  "death.attack.sparky_damage.player": "%1$s fried whilst trying to escape %2$s",
+  "subtitles.sparky_shot": "",
+  "gui.sparky_mod.elixir_collector_gui.label_elixir_collector": "간이 엘릭서 정제소",
+  "item.sparky_mod.sparky_spawn_item": "스파키 카드"
+}

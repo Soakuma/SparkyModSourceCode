@@ -1,0 +1,9 @@
+{
+  "parent": "sparky_mod:custom/elixir_collector",
+  "textures": {
+    "all": "sparky_mod:block/elixir_collector",
+    "particle": "sparky_mod:block/elixir_collector",
+    "0": "sparky_mod:block/elixir_collector"
+  },
+  "render_type": "cutout_mipped"
+}
